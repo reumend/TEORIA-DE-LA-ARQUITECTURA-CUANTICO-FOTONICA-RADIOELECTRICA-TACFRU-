@@ -16,7 +16,7 @@ Perfil GitHub: @reumend
 
 📜 Descripción General
 
-La Teoría de Arquitectura Cuántica Fotónico-Radioeléctrica Unificada (TACFRU) es un marco teórico que describe el diseño, funcionamiento y fundamentos físicos de un hipotético chip cuántico revolucionario: el TACFRU-Ω. Este chip integra, en un solo sustrato de diamante y materiales topológicos, la capacidad de procesar información cuántica mediante modos de Majorana, transducirla a luz (LIFI) y radiofrecuencia, y operar en 14 escalas de información que van desde el bit hasta el alephbyte.
+La Teoría de Arquitectura Cuántica Fotónico-Radioeléctrica Unificada (TACFRU) es un marco teórico que describe el diseño, funcionamiento y fundamentos físicos de un chip cuántico revolucionario: el TACFRU-Ω. Este chip integra, en un solo sustrato de diamante y materiales topológicos, la capacidad de procesar información cuántica mediante modos de Majorana, transducirla a luz (LIFI) y radiofrecuencia, y operar en 14 escalas de información que van desde el bit hasta el alephbyte.
 
 La TACFRU no solo unifica la fotónica y la radioelectricidad con la mecánica cuántica, sino que establece las bases para una nueva comprensión de la información como entidad espacio-temporal.
 
